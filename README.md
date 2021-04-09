@@ -272,7 +272,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Python
-
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Python Awesome | Python Awesome | Cheatsheet | Inglés | Sí | [Link](https://pythonawesome.com/) |
 ## R
 
 ## Ruby
